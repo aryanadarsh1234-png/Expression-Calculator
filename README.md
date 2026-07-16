@@ -71,6 +71,6 @@ No additional installation or dependencies are required.
 
 
 
-**Babita Sinha**
+**Aryan Adarsh**
 
 If you found this project helpful, consider giving it a ⭐ on GitHub!
